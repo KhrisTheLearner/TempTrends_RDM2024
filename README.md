@@ -15,6 +15,8 @@ This dataset contains the average annual temperatures for San Francisco.
 - `GlobalLandTemperaturesByCity.csv`: The dataset.
 - `average_annual_temperature_sf.png`: The generated graph.
 - `analysis.txt`: Brief analysis of the data.
+- `PID_Explanation.md`: Explanation to explain why PID might be N/A in this context.
+- `.gitignore`: The file containing contents that are hardly necessary to push to the remote repository
 
 ## Metadata
 

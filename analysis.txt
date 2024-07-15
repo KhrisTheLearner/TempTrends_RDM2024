@@ -1,0 +1,5 @@
+
+The line graph shows the average annual temperatures in San Francisco over time. 
+The data indicates a general increase in temperature over the years, 
+which aligns with global warming trends observed in many regions.
+

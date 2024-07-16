@@ -2,7 +2,7 @@
 
 ## Data Source
 
-The data was obtained from [Kaggle](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data).
+The data was obtained from [Kaggle](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data). (You can download it for free)
 
 Persistent Identifier (PID): N/A ([Learn why](PID_Explanation.md))
 
